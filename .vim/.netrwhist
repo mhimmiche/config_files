@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/mehdi/dev/antiabuse-relay-milter/test/unittest'
+let g:netrw_dirhist_2='/home/mehdi/dev/rio-2fa-mysql-server/roles/rio_percona'
+let g:netrw_dirhist_3='/home/mehdi/dev/rio-2fa-mysql-server/roles/rio_percona/templates'
+let g:netrw_dirhist_4='/home/mehdi/dev/rio-2fa-mysql-server/roles/rio_percona/defaults'
+let g:netrw_dirhist_5='/home/mehdi/dev/rio-2fa-mysql-server/roles/rio_percona/templates'
+let g:netrw_dirhist_6='/home/mehdi/dev/rio-2fa-api-server/roles/dev/files'
